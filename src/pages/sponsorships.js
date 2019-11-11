@@ -28,7 +28,7 @@ const SecondPage = () => (
       <li>2-3 minutes to pitch your company and its opportunities</li>
       <li>Priority listings for job inquiries through <a href="mailto:jobs@semjs.org">jobs@semjs.org</a></li>
     </ul>
-    <h3>Interested? Fill out our form below 👇</h3>
+    <h3>Interested? Fill out our form below <span role="img" aria-label="emoji: backdown index pointing down">👇</span></h3>
     <div>
       .... FORM TO GO HERE ....
       <br />
